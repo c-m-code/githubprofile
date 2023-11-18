@@ -10,8 +10,8 @@ img { max-width:100%; }
 /************* End CSS RESETS **************/
 
 body {
-	background:url(images/paper.png);
-	color: #424242;
+	background: url(images/paper.png);
+	color: #30424B;
 	font-family: 'Source Sans Pro', sans-serif;
 	padding: 30px 0;
 }
